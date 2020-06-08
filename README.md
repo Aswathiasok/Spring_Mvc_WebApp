@@ -1,2 +1,2 @@
 # Spring_Mvc_WebApp
-This is a simple Web Mvc application using java configuration
+This is a simple Spring Web Mvc application developed without web.xml file
